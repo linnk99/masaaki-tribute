@@ -1,0 +1,68 @@
+body {
+    margin-top: 60px;
+    background-color: black;
+  }
+  
+  p {
+    text-align: justify;
+  }
+  
+  #title {
+    color: white;
+    font-family: Cinzel;
+    font-size: 500%;
+  }
+  
+  .subtitle {
+    color: white;
+    font-family: Cinzel;
+    font-size: 200%;
+  }
+  
+  #main-pic {
+    width: 40%;
+    margin-left: 30%;
+  }
+  
+  #pic-sub {
+    color: white;
+    font-family: 'Lato', sans-serif;
+  }
+  
+  .main {
+    padding-top: 30px;
+  }
+  
+  .description {
+    color: white;
+    display: inline-block;
+    margin-right: 15%;
+    margin-left: 15%;
+    font-family: 'Questrial', sans-serif;
+    font-size: 120%;
+  }
+  
+  .description h2{
+    font-family: 'Josefin Sans', sans-serif;
+  }
+  
+  .timeline {
+    text-align: left;
+  }
+  
+  .quote {
+    font-size: 200%;
+    text-align: left;
+  }
+  
+  .footer {
+    color: white;
+    padding-top: 70px;
+    padding-bottom: 30px;
+    margin-right: 10%;
+    margin-left: 10%;
+  }
+  
+  .signature {
+    color: white;
+  }
